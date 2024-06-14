@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/NAL1203-v2/annotations/f1.json", "https://TheoBurnel.github.io/NAL1203-v2/annotations/f2.json", "https://TheoBurnel.github.io/NAL1203-v2/annotations/f5.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/NAL1203-v2/annotations/f1.json", "https://TheoBurnel.github.io/NAL1203-v2/annotations/f2.json", "https://TheoBurnel.github.io/NAL1203-v2/annotations/f5.json", "https://TheoBurnel.github.io/NAL1203-v2/annotations/f6.json" ],
   "@id" : "https://TheoBurnel.github.io/NAL1203-v2/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/NAL1203-v2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
